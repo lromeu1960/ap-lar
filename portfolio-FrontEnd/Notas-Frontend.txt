@@ -1,0 +1,1 @@
+Este archivo contiene notas generales de la carpeta Frontend
